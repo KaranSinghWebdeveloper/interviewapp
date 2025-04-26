@@ -16,6 +16,8 @@ pass: test@mailinator.com
 
 created customers CRUD
 
+created Follow Up module crud
+
 Implement multi-factor authentication (MFA).
 change SMTP
 
